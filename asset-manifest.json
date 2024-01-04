@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Minimalist-News/static/css/main.f855e6bc.css",
-    "main.js": "/Minimalist-News/static/js/main.762bf306.js",
+    "main.js": "/Minimalist-News/static/js/main.115cfebf.js",
     "static/js/787.94855f1e.chunk.js": "/Minimalist-News/static/js/787.94855f1e.chunk.js",
     "static/media/minimalLogo.png": "/Minimalist-News/static/media/minimalLogo.f259314d79c2828a7e12.png",
     "index.html": "/Minimalist-News/index.html",
     "main.f855e6bc.css.map": "/Minimalist-News/static/css/main.f855e6bc.css.map",
-    "main.762bf306.js.map": "/Minimalist-News/static/js/main.762bf306.js.map",
+    "main.115cfebf.js.map": "/Minimalist-News/static/js/main.115cfebf.js.map",
     "787.94855f1e.chunk.js.map": "/Minimalist-News/static/js/787.94855f1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.762bf306.js"
+    "static/js/main.115cfebf.js"
   ]
 }
