@@ -29,38 +29,38 @@ function Navbar() {
                 <Link
                   className="nav-link active"
                   aria-current="page"
-                  to="/Minimalist-News"
+                  to="/Minimalist-News/"
                 >
                   General
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="Minimalist-News/sports">
+                <Link className="nav-link" to="/Minimalist-News/sports">
                   Sports
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="Minimalist-News/business">
+                <Link className="nav-link" to="/Minimalist-News/business">
                   Business
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="Minimalist-News/entertainment">
+                <Link className="nav-link" to="/Minimalist-News/entertainment">
                   Entertainment
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="Minimalist-News/technology">
+                <Link className="nav-link" to="/Minimalist-News/technology">
                   Technology
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="Minimalist-News/health">
+                <Link className="nav-link" to="/Minimalist-News/health">
                   Health
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="Minimalist-News/science">
+                <Link className="nav-link" to="/Minimalist-News/science">
                   Science
                 </Link>
               </li>
