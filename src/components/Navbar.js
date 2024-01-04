@@ -6,10 +6,10 @@ function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/Minimalist-News">
+          <Link className="navbar-brand" to="/Minimalist-News/">
             <img src={logo} alt="Bootstrap" width="60" height="50" />
           </Link>
-          <Link className="navbar-brand" to="/Minimalist-News">
+          <Link className="navbar-brand" to="/Minimalist-News/">
             Minimalist News
           </Link>
           <button
