@@ -35,32 +35,32 @@ function Navbar() {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/sports">
+                <Link className="nav-link" to="Minimalist-News/sports">
                   Sports
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/business">
+                <Link className="nav-link" to="Minimalist-News/business">
                   Business
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/entertainment">
+                <Link className="nav-link" to="Minimalist-News/entertainment">
                   Entertainment
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/technology">
+                <Link className="nav-link" to="Minimalist-News/technology">
                   Technology
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/health">
+                <Link className="nav-link" to="Minimalist-News/health">
                   Health
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="science">
+                <Link className="nav-link" to="Minimalist-News/science">
                   Science
                 </Link>
               </li>

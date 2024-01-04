@@ -23,7 +23,7 @@ function App() {
           />
           <Route
             exact
-            path="/business"
+            path="Minimalist-News/business"
             element={
               <News
                 key="business"
@@ -35,7 +35,7 @@ function App() {
           />
           <Route
             exact
-            path="/technology"
+            path="Minimalist-News/technology"
             element={
               <News
                 key="technology"
@@ -47,14 +47,14 @@ function App() {
           />
           <Route
             exact
-            path="/sports"
+            path="Minimalist-News/sports"
             element={
               <News key="sports" pageSize={12} country="in" category="sports" />
             }
           />
           <Route
             exact
-            path="/entertainment"
+            path="Minimalist-News/entertainment"
             element={
               <News
                 key="entertainment"
@@ -66,7 +66,7 @@ function App() {
           />
           <Route
             exact
-            path="/science"
+            path="Minimalist-News/science"
             element={
               <News
                 key="science"
@@ -78,7 +78,7 @@ function App() {
           />
           <Route
             exact
-            path="/health"
+            path="Minimalist-News/health"
             element={
               <News key="health" pageSize={12} country="in" category="health" />
             }
