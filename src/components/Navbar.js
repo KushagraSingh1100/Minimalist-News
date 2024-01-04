@@ -6,10 +6,10 @@ function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/">
+          <Link className="navbar-brand" to="/Minimalist-News">
             <img src={logo} alt="Bootstrap" width="60" height="50" />
           </Link>
-          <Link className="navbar-brand" to="/">
+          <Link className="navbar-brand" to="/Minimalist-News">
             Minimalist News
           </Link>
           <button
@@ -26,7 +26,11 @@ function Navbar() {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <Link className="nav-link active" aria-current="page" to="/">
+                <Link
+                  className="nav-link active"
+                  aria-current="page"
+                  to="/Minimalist-News"
+                >
                   General
                 </Link>
               </li>

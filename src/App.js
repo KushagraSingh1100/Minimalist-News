@@ -11,7 +11,7 @@ function App() {
         <Routes>
           <Route
             exact
-            path="/"
+            path="/Minimalist-News"
             element={
               <News
                 key="general"
